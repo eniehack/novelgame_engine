@@ -12,3 +12,4 @@ bin           = @["novelgame_engine"]
 # Dependencies
 
 requires "nim >= 1.4.6"
+requires "sdl2nim >= 2.0.14.0"
